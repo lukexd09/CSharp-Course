@@ -8,7 +8,7 @@ namespace StudentDiary
     {
 
         //Stan (zmienne - pola)
-        List<float> ratings; // Lista wszystkich ocen
+        List<float> ratings = new List<float>(); // Lista wszystkich ocen
 
 
         //Zachowania
