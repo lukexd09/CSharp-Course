@@ -8,12 +8,12 @@ namespace Hello_World
         static void Main(string[] args)
         {
             //string name = args[0];
-            //Console.WriteLine("Hello world!"+ name);
+            Console.WriteLine("Hello world!");
 
-            foreach (var item in args)
-            {
-                Console.WriteLine("Hello "+item+"!");
-            }
+            //foreach (var item in args)
+            //{
+            //    Console.WriteLine("Hello "+item+"!");
+            //}
         }
     }
 }
