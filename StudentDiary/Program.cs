@@ -37,7 +37,7 @@ namespace StudentDiary
                 }
                 
             }
-
+          
             // Wyświetlanie danych
             Console.WriteLine("Średnia podanych ocen to :"+ diary.CalculateAverage());
             Console.WriteLine("Najwyższa ocena to :" + diary.GiveMaxRating());
